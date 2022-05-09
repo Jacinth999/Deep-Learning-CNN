@@ -1,3 +1,3 @@
-# Plant-Health-Check
+# Plant-Health-Check using CNN
 
 Identification of Plant health
