@@ -1,3 +1,3 @@
-# Deep-Learning-CNN
+# Plant-Health-Check
 
 Identification of Plant health
